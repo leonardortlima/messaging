@@ -1,0 +1,14 @@
+{
+  "name": "producer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leonardo Lima <leonardo.lima@ciag.org.br>",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "^0.7.1"
+  }
+}
